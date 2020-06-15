@@ -2,7 +2,7 @@ antlr4-python3-runtime==4.7.2
 asn1crypto==0.24.0
 autopep8==1.4.4
 colorama==0.4.1
-cryptography==2.1.4
+cryptography==2.3
 docformatter==1.1
 enum34==1.1.6
 idna==2.6
